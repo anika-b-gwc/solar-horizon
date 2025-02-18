@@ -2,7 +2,14 @@
 #### Thanks for taking a look at my project for the 2024-25 Girls Who Code Challenge! This project leverages AI to identify energy-poor regions and recommend possible solar energy solutions. It predicts solar energy potential (PVOUT Level 1) using factors of population density, solar irradiance, economic potential (LCOE), PV seasonality, and electricity access. With this, we can decine sustainable energy solutions for underserved regions.
 
 
-## Steps to run
+## Contents
+- `gwc_sustainability_2425.py` > Python file with machine learning model and UI testing (main file to run)
+- `GWC_solar_energy_equity_model.pkl` > Code for Machne Learning Model, contained separately from rest of code (for possible HTML implementation)
+- `populationDensity.csv` > Population Density Dataset (see sources below)
+- `solar_stats.csv` > Renewable Energy Dataset (see sources below)
+
+
+## Steps to run `gwc_sustainability_2425.py`
 1. Ensure you have Python installed on your system.
 
 2. Install Dependencies:
