@@ -7,6 +7,7 @@
 - `GWC_solar_energy_equity_model.pkl` > Code for Machne Learning Model, contained separately from rest of code (for possible HTML implementation)
 - `populationDensity.csv` > Population Density Dataset (see sources below)
 - `solar_stats.csv` > Renewable Energy Dataset (see sources below)
+- `Process Reflection Questions.pdf` > Answers to the Process Reflection Questions
 
 
 ## Steps to run `gwc_sustainability_2425.py`
