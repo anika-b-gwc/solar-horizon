@@ -1,5 +1,5 @@
 # Solar Horizons
-#### Thanks for taking a look at my project for the 2024-25 Girls Who Code Challenge! This project leverages AI to identify energy-poor regions and recommend possibly solar energy solutions. It predicts solar energy potential (PVOUT Level 1) using factors of population density, solar irradiance, economic potential (LCOE), PV seasonality, and electricity access. The tool promotes sustainable energy solutions for underserved regions.
+#### Thanks for taking a look at my project for the 2024-25 Girls Who Code Challenge! This project leverages AI to identify energy-poor regions and recommend possible solar energy solutions. It predicts solar energy potential (PVOUT Level 1) using factors of population density, solar irradiance, economic potential (LCOE), PV seasonality, and electricity access. With this, we can decine sustainable energy solutions for underserved regions.
 
 
 ## Steps to run
